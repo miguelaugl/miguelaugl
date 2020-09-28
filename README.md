@@ -1,21 +1,19 @@
-### Olá! Eu me chamo Miguel 👋
+## Miguel Augusto
 
-### Bem-vindo ao meu perfil 😉
+### Fullstack Developer
 
-## Desenvolvedor fullstack especializado em JavaScript e apaixonado por programação!
+In love with programming. Obsessed with detail and quality. Always chasing for simple and elegant solutions for every problem.
 
-- 🔭 Estou atualmente trabalhando na agência [MKTNow][mktsite]!
-- 🌱 Atualmente focado na stack JavaScript (React, React Native e NodeJS) e TypeScript
-- ⚡ Fato engraçado: no meu tempo livre, eu programo hahaha 😍
+Currently focused in learning and development applications with Node.js, React, React Native and Typescript.
 
-### Conecte-se comigo:
+### Contact me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
-### Linguagens e ferramentas:
+### My skills:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -39,4 +37,4 @@
 
 [mktsite]: https://www.mktnow.com.br/
 [instagram]: https://instagram.com/miguelw_e
-[linkedin]: https://www.linkedin.com/in/miguel-augusto/'
+[linkedin]: https://www.linkedin.com/in/miguel-augusto/
