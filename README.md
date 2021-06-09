@@ -22,7 +22,15 @@ Where can you find me?
   />
 </a>
 
+<a href="mailto:miguelauglcontato@gmail.com" rel="nofollow">
+  <img 
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+    alt="Gmail Badge" 
+    style="max-width:100%;"
+  />
+</a>
+
 <br>
 <br>
 
-[![kyojuro-rengoku.gif](https://s6.gifyu.com/images/kyojuro-rengoku.gif)](https://gifyu.com/image/orQN)
+[![kyojuro-rengoku-min.gif](https://s6.gifyu.com/images/kyojuro-rengoku-min.gif)](https://gifyu.com/image/orWM)
