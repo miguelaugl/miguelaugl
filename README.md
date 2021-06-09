@@ -33,4 +33,5 @@ Where can you find me?
 <br>
 <br>
 
+My favorite anime character is Kyōjurō Rengoku 
 [![kyojuro-rengoku-min.gif](https://s6.gifyu.com/images/kyojuro-rengoku-min.gif)](https://gifyu.com/image/orWM)
