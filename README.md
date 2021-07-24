@@ -29,6 +29,3 @@ Where can you find me?
     style="max-width:100%;"
   />
 </a>
-
-<br>
-<br>
