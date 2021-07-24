@@ -32,5 +32,3 @@ Where can you find me?
 
 <br>
 <br>
-
-<p>My favorite anime character is Kyōjurō Rengoku:</p>
