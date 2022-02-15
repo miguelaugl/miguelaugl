@@ -1,5 +1,7 @@
 ## Miguel Augusto
 
+Hey there :wave:,
+
 Frontend Developer at @Eduzz
 
 Passionate about programming. Obsessed with detail and quality. Always chasing for simple and elegant solutions for every problem.
